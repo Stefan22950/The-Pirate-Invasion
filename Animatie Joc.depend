@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1637256171 source:c:\users\rosca\desktop\fiesc\pclp\codeblocks\animatie joc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637253743 source:c:\users\rosca\desktop\fiesc\pclp\codeblocks\animatie joc\pirate1.c
+
+1637273348 source:c:\users\rosca\desktop\animatie joc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1637444852 source:c:\users\rosca\desktop\proiect joc c\animatie joc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<windowsx.h>
+	<mmsystem.h>
+
